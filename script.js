@@ -3,7 +3,7 @@ const changeButton = document.getElementById('change-message');
 
 const messages = [
     "Semoga harimu dipenuhi kebahagiaan dan tawa!",
-        "Tahun telah berganti! Mari buat perubahan padw tqhun ini.",
+        "Tahun telah berganti! Mari buat perubahan pada tahun ini.",
             "Di Tahun ini, semoga kamu selalu diberikan kesehatan dan kesuksesan.",
                 "Tahun ini adalah awal dari petualangan baru yang menarik!"
                 ];
