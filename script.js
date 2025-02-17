@@ -3,9 +3,9 @@ const changeButton = document.getElementById('change-message');
 
 const messages = [
     "Semoga harimu dipenuhi kebahagiaan dan tawa!",
-        "Selamat ulang tahun! Semoga semua impianmu menjadi kenyataan.",
-            "Di hari bahagiamu ini, semoga kamu selalu diberikan kesehatan dan kesuksesan.",
-                "Ulang tahun ini adalah awal dari petualangan baru yang menarik!"
+        "Tahun telah berganti! Mari buat perubahan padw tqhun ini.",
+            "Di Tahun ini, semoga kamu selalu diberikan kesehatan dan kesuksesan.",
+                "Tahun ini adalah awal dari petualangan baru yang menarik!"
                 ];
 
                 let currentMessageIndex = 0;
